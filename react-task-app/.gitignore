@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.ssh
+.ed_rsa
+id_rsa
+id_rsa.pub
